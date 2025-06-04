@@ -93,7 +93,7 @@ const Navbar = () => {
                   <div className="absolute -top-1 -right-1 w-4 h-4 bg-amber-400 rounded-full animate-pulse"></div>
                 </div>
                 <span className="text-2xl font-black bg-gradient-to-r from-indigo-600 to-violet-500 bg-clip-text ">
-                  EKLUVYA
+                  EKLAVYA
                 </span>
               </a>
             </div>

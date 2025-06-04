@@ -182,7 +182,7 @@ const Home = () => {
               <div className="space-y-6 mb-12">
                 <h1 className="text-5xl md:text-7xl lg:text-8xl font-black leading-tight">
                   <span className="block bg-gradient-to-r from-white via-blue-100 to-purple-100 bg-clip-text text-transparent drop-shadow-lg">
-                    EKLUVYA
+                    EKLAVYA
                   </span>
                   <span className="block bg-gradient-to-r from-red-400 via-pink-400 to-purple-400 bg-clip-text text-transparent animate-pulse">
                     CLUB
@@ -223,7 +223,7 @@ const Home = () => {
                   <img
                     src={EkLUVYA}
                     alt="Ekluvya Logo"
-                    className="w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 drop-shadow-2xl object-contain"
+                    className="w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 drop-shadow-2xl object-contain rounded-2xl"
                   />
                 </div>
 
